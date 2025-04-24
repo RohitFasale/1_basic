@@ -1,0 +1,12 @@
+{
+    "name": "My Dev Container",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "features": {},
+    "postCreateCommand": "echo 'Welcome to your dev container!'",
+    "customizations": {
+      "vscode": {
+        "extensions": []
+      }
+    }
+  }
+  
